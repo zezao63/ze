@@ -1,5 +1,5 @@
 plugins {
-    id 'application'
+    id "application"
 }
 
 repositories {
@@ -7,5 +7,5 @@ repositories {
 }
 
 application {
-    mainClass = 'primeiro_exemplo.Hello'
+    mainClass = "primeiro_exemplo.Hello"
 }
